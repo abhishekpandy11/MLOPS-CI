@@ -28,5 +28,5 @@ jobs:                           # <-- required
 
       - name: Run tests
         run: |
-           pytest tests/ -v
+           pytest 
 
